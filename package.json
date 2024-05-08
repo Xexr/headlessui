@@ -3,9 +3,8 @@
   "version": "2.0.4",
   "description": "Headless UI components for various libraries like React and Vue",
   "main": "index.js",
-  "repository": "https://github.com/tailwindlabs/headlessui",
+  "repository": "https://github.com/xexr/headlessui",
   "license": "MIT",
-  "private": true,
   "workspaces": [
     "packages/*",
     "playgrounds/*"
