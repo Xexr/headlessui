@@ -1,6 +1,6 @@
 {
-  "name": "headlessui",
-  "version": "0.0.0",
+  "name": "@xexr/headlessui",
+  "version": "2.0.4",
   "description": "Headless UI components for various libraries like React and Vue",
   "main": "index.js",
   "repository": "https://github.com/tailwindlabs/headlessui",
